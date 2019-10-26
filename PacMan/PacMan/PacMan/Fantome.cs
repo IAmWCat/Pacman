@@ -20,7 +20,7 @@ namespace PacMan
         private int cptDessinateur = 0; //compteur du nombre de fois que le fantome est dessiné
         public bool peutEtreMangé = false; //si le fantome peut être mangé
         public bool flash = false; //si le fantome flash
-        public PImage m_imagePeur = LoadImage("../../Peur.png"); //image de peur du fantome
+        public PImage m_imagePeur = LoadImage("../../img/Peur.png"); //image de peur du fantome
 
         /// <summary>
         /// Initialisation du fantomes
@@ -133,8 +133,8 @@ namespace PacMan
             m_position.Y = 4 * 21 + 10;
             m_deplacement = new PoursuiteDirecte();
             m_deplacementDeBase = new PoursuiteDirecte();
-            m_image = LoadImage("../../Blinky.png");
-            m_image2 = LoadImage("../../Blinky.png");
+            m_image = LoadImage("../../img/Blinky.png");
+            m_image2 = LoadImage("../../img/Blinky.png");
             Subscribe(PacMan.Instance);
         }
     }
@@ -158,8 +158,8 @@ namespace PacMan
             m_position.Y = 4 * 21 + 10;
             m_deplacement = new PoursuiteIndirecte();
             m_deplacementDeBase = new PoursuiteIndirecte();
-            m_image = LoadImage("../../Inky.png");
-            m_image2 = LoadImage("../../Inky2.png");
+            m_image = LoadImage("../../img/Inky.png");
+            m_image2 = LoadImage("../../img/Inky2.png");
             Subscribe(PacMan.Instance);
         }
     }
@@ -183,8 +183,8 @@ namespace PacMan
             m_position.Y = 4 * 21 + 10;
             m_deplacement = new PoursuiteInversée();
             m_deplacementDeBase = new PoursuiteInversée();
-            m_image = LoadImage("../../Pinky.png");
-            m_image2 = LoadImage("../../Pinky.png");
+            m_image = LoadImage("../../img/Pinky.png");
+            m_image2 = LoadImage("../../img/Pinky.png");
             Subscribe(PacMan.Instance);
         }
     }
@@ -208,8 +208,8 @@ namespace PacMan
             m_position.Y = 4 * 21 + 10;
             m_deplacement = new PoursuiteAléatoire();
             m_deplacementDeBase = new PoursuiteAléatoire();
-            m_image = LoadImage("../../Clyde.png");
-            m_image2 = LoadImage("../../Clyde2.png");
+            m_image = LoadImage("../../img/Clyde.png");
+            m_image2 = LoadImage("../../img/Clyde2.png");
             Subscribe(PacMan.Instance);
         }
     }

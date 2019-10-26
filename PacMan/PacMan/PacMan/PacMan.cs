@@ -42,14 +42,14 @@ namespace PacMan
         private Point PositionActuelle { get; set; } //la position actuelle de pacman   
 
         //Images de PacMan : 
-        public PImage pacmanLEFT1 = LoadImage("../../pacmanLEFT.png");
-        public PImage pacmanLEFT2 = LoadImage("../../pacman2LEFT.png");
-        private PImage pacmanUP1 = LoadImage("../../pacmanUP.png");
-        private PImage pacmanUP2 = LoadImage("../../pacman2UP.png");
-        private PImage pacmanDOWN1 = LoadImage("../../pacmanDOWN.png");
-        private PImage pacmanDOWN2 = LoadImage("../../pacman2DOWN.png");
-        private PImage pacmanRIGHT1 = LoadImage("../../pacmanRIGHT.png");
-        private PImage pacmanRIGHT2 = LoadImage("../../pacman2RIGHT.png");
+        public PImage pacmanLEFT1 = LoadImage("../../img/pacmanLEFT.png");
+        public PImage pacmanLEFT2 = LoadImage("../../img/pacman2LEFT.png");
+        private PImage pacmanUP1 = LoadImage("../../img/pacmanUP.png");
+        private PImage pacmanUP2 = LoadImage("../../img/pacman2UP.png");
+        private PImage pacmanDOWN1 = LoadImage("../../img/pacmanDOWN.png");
+        private PImage pacmanDOWN2 = LoadImage("../../img/pacman2DOWN.png");
+        private PImage pacmanRIGHT1 = LoadImage("../../img/pacmanRIGHT.png");
+        private PImage pacmanRIGHT2 = LoadImage("../../img/pacman2RIGHT.png");
 
         public bool premierMouvement = false;   //si c'est le premier déplacement de Pacman
 

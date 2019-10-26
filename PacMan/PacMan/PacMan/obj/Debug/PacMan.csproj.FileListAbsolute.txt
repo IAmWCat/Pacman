@@ -36,3 +36,13 @@ D:\WCat\source\repos\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInp
 D:\WCat\source\repos\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
 D:\WCat\source\repos\PacMan\PacMan\PacMan\obj\Debug\PacMan.exe
 D:\WCat\source\repos\PacMan\PacMan\PacMan\obj\Debug\PacMan.pdb
+C:\Users\WCat\Desktop\Code\PacmanOnline\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe.config
+C:\Users\WCat\Desktop\Code\PacmanOnline\PacMan\PacMan\PacMan\bin\Debug\PacMan.exe
+C:\Users\WCat\Desktop\Code\PacmanOnline\PacMan\PacMan\PacMan\bin\Debug\PacMan.pdb
+C:\Users\WCat\Desktop\Code\PacmanOnline\PacMan\PacMan\PacMan\bin\Debug\NetProcessing.dll
+C:\Users\WCat\Desktop\Code\PacmanOnline\PacMan\PacMan\PacMan\bin\Debug\NetProcessing.xml
+C:\Users\WCat\Desktop\Code\PacmanOnline\PacMan\PacMan\PacMan\obj\Debug\PacMan.csprojAssemblyReference.cache
+C:\Users\WCat\Desktop\Code\PacmanOnline\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\WCat\Desktop\Code\PacmanOnline\PacMan\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
+C:\Users\WCat\Desktop\Code\PacmanOnline\PacMan\PacMan\PacMan\obj\Debug\PacMan.exe
+C:\Users\WCat\Desktop\Code\PacmanOnline\PacMan\PacMan\PacMan\obj\Debug\PacMan.pdb
